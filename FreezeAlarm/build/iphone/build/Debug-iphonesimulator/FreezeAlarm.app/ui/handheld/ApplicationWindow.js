@@ -1,0 +1,1 @@
+/Users/itoutakayuki/Documents/FreezeAlarm/Resources/ui/handheld/ApplicationWindow.js
